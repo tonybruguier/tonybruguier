@@ -4,7 +4,7 @@ I contribute to Github in my spare time, outside my formal work requirements. My
 - [Stabilizer codes](https://github.com/quantumlib/Cirq/blob/master/examples/stabilizer_code.py) for error correction ([commits](https://github.com/quantumlib/Cirq/commits/master/examples/stabilizer_code.py)) and its associated [Notebook](https://github.com/quantumlib/Cirq/blob/master/examples/stabilizer_code.ipynb)
 - Arbitrary Boolean functions for QAOA - [Boolean expression](https://github.com/quantumlib/Cirq/pull/4282) merged, [Boolean Hamiltonian Gate](https://github.com/quantumlib/Cirq/pull/4309) under review, [Complete plan](https://github.com/quantumlib/Cirq/pull/3989) not yet for review
 - [Quantum Embeddings](https://github.com/tensorflow/quantum/blob/research/quantum_embed/quantum_embed.py) and its associated [Notebook](https://github.com/tensorflow/quantum/blob/research/quantum_embed/quantum_embed.ipynb) ([commit](https://github.com/tensorflow/quantum/pull/606))
-- [Projector](https://github.com/quantumlib/Cirq/pull/4331) objects in Cirq and for TensorFlow quantum, under review.
+- [ProjectorString](https://github.com/quantumlib/Cirq/pull/4331) objects in Cirq and for TensorFlow quantum, merged, and [ProjectorSum](https://github.com/quantumlib/Cirq/pull/4364), under review.
 - I also do some cleanup and refactoring. See [all my PRs](https://github.com/search?l=&o=desc&q=author%3Atonybruguier-google+author%3Atonybruguier&s=created&type=Issues).
 
 For more information about my day job away from Github: https://www.bruguier.com
